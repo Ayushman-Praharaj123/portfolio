@@ -107,7 +107,7 @@ export function ContactSection() {
             Get In Touch
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Ready to start your next project? Let's discuss how I can help bring your ideas to life.
+            Ready to start your next project? Let&apos;s discuss how I can help bring your ideas to life.
           </p>
         </motion.div>
 
@@ -255,7 +255,7 @@ export function ContactSection() {
                       animate={{ opacity: 1, y: 0 }}
                       className="text-green-600 text-center"
                     >
-                      Message sent successfully! I'll get back to you soon.
+                      Message sent successfully! I&apos;ll get back to you soon.
                     </motion.p>
                   )}
 

@@ -180,10 +180,10 @@ export function ServicesSection() {
                 Ready to Start Your Project?
               </h3>
               <p className="text-muted-foreground mb-6">
-                Let's discuss your requirements and create something amazing together.
+                Let&apos;s discuss your requirements and create something amazing together.
               </p>
               <Button onClick={handleGetStarted} size="lg">
-                Let's Talk
+                Let&apos;s Talk
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </CardContent>
